@@ -28,8 +28,17 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riiyachoudhary9/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/riiyachoudhary9/LeetCode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riiyachoudhary9/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/riiyachoudhary9/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/riiyachoudhary9/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
