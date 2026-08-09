@@ -18,6 +18,7 @@
 | [0007-reverse-integer](https://github.com/riiyachoudhary9/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/riiyachoudhary9/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/riiyachoudhary9/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/riiyachoudhary9/LeetCode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +53,12 @@
 | [1148-article-views-i](https://github.com/riiyachoudhary9/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/riiyachoudhary9/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/riiyachoudhary9/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/riiyachoudhary9/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/riiyachoudhary9/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
