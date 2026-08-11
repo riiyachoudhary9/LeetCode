@@ -21,6 +21,7 @@
 | [0009-palindrome-number](https://github.com/riiyachoudhary9/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/riiyachoudhary9/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/riiyachoudhary9/LeetCode/tree/master/0069-sqrtx) |
+| [0728-self-dividing-numbers](https://github.com/riiyachoudhary9/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
