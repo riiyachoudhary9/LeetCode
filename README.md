@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/riiyachoudhary9/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/riiyachoudhary9/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/riiyachoudhary9/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
