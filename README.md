@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/riiyachoudhary9/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/riiyachoudhary9/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -95,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
