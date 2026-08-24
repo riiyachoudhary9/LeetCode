@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/riiyachoudhary9/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/riiyachoudhary9/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -106,8 +107,13 @@
 | ------- |
 | [0027-remove-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
