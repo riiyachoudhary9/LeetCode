@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/riiyachoudhary9/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riiyachoudhary9/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/riiyachoudhary9/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/riiyachoudhary9/LeetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0007-reverse-integer](https://github.com/riiyachoudhary9/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/riiyachoudhary9/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/riiyachoudhary9/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/riiyachoudhary9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/riiyachoudhary9/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/riiyachoudhary9/LeetCode/tree/master/0069-sqrtx) |
 | [0728-self-dividing-numbers](https://github.com/riiyachoudhary9/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -46,6 +48,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riiyachoudhary9/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/riiyachoudhary9/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/riiyachoudhary9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/riiyachoudhary9/LeetCode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
