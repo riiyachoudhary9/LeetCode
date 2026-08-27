@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/riiyachoudhary9/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/riiyachoudhary9/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/riiyachoudhary9/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/riiyachoudhary9/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
