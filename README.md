@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/riiyachoudhary9/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/0031-next-permutation) |
+| [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -54,6 +55,7 @@
 | [0013-roman-to-integer](https://github.com/riiyachoudhary9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/riiyachoudhary9/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riiyachoudhary9/LeetCode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/riiyachoudhary9/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Number Theory
@@ -132,6 +135,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/riiyachoudhary9/LeetCode/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -141,4 +145,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/riiyachoudhary9/LeetCode/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
