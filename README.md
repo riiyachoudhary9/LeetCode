@@ -13,6 +13,7 @@
 | [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
+| [0283-move-zeroes](https://github.com/riiyachoudhary9/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/riiyachoudhary9/LeetCode/tree/master/0724-find-pivot-index) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -118,6 +119,7 @@
 | [0027-remove-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/riiyachoudhary9/LeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
