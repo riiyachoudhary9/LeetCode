@@ -13,6 +13,7 @@
 | [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/riiyachoudhary9/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/riiyachoudhary9/LeetCode/tree/master/0724-find-pivot-index) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -26,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/riiyachoudhary9/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/riiyachoudhary9/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/riiyachoudhary9/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riiyachoudhary9/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -158,4 +162,12 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/riiyachoudhary9/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
