@@ -20,6 +20,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/riiyachoudhary9/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
