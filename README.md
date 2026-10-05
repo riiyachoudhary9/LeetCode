@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/riiyachoudhary9/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/riiyachoudhary9/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/riiyachoudhary9/LeetCode/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/riiyachoudhary9/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/riiyachoudhary9/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -42,6 +43,7 @@
 | [0050-powx-n](https://github.com/riiyachoudhary9/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/riiyachoudhary9/LeetCode/tree/master/0069-sqrtx) |
 | [0728-self-dividing-numbers](https://github.com/riiyachoudhary9/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/riiyachoudhary9/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
