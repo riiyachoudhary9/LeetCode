@@ -25,6 +25,7 @@
 | [1920-build-array-from-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/riiyachoudhary9/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/riiyachoudhary9/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/riiyachoudhary9/LeetCode/tree/master/0069-sqrtx) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/riiyachoudhary9/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/riiyachoudhary9/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/riiyachoudhary9/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
@@ -185,4 +188,12 @@
 |  |
 | ------- |
 | [1720-decode-xored-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1720-decode-xored-array) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/riiyachoudhary9/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/riiyachoudhary9/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
