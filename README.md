@@ -15,6 +15,7 @@
 | [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/riiyachoudhary9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/riiyachoudhary9/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/riiyachoudhary9/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/riiyachoudhary9/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/riiyachoudhary9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
