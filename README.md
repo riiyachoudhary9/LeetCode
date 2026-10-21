@@ -73,6 +73,7 @@
 | [0014-longest-common-prefix](https://github.com/riiyachoudhary9/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riiyachoudhary9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/riiyachoudhary9/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
