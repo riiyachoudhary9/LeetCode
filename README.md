@@ -30,6 +30,7 @@
 | [1929-concatenation-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/riiyachoudhary9/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [1720-decode-xored-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1720-decode-xored-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
