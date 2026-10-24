@@ -53,6 +53,7 @@
 | [0728-self-dividing-numbers](https://github.com/riiyachoudhary9/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/riiyachoudhary9/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/riiyachoudhary9/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0014-longest-common-prefix](https://github.com/riiyachoudhary9/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riiyachoudhary9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/riiyachoudhary9/LeetCode/tree/master/0079-word-search) |
+| [2409-count-days-spent-together](https://github.com/riiyachoudhary9/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/riiyachoudhary9/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
