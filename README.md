@@ -31,6 +31,7 @@
 | [1929-concatenation-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/riiyachoudhary9/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3026-maximum-good-subarray-sum](https://github.com/riiyachoudhary9/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/riiyachoudhary9/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 | [0013-roman-to-integer](https://github.com/riiyachoudhary9/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/riiyachoudhary9/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riiyachoudhary9/LeetCode/tree/master/0217-contains-duplicate) |
+| [3026-maximum-good-subarray-sum](https://github.com/riiyachoudhary9/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/riiyachoudhary9/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/riiyachoudhary9/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [3026-maximum-good-subarray-sum](https://github.com/riiyachoudhary9/LeetCode/tree/master/3026-maximum-good-subarray-sum) |
 ## Counting
 |  |
 | ------- |
