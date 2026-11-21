@@ -107,6 +107,7 @@
 | [1517-find-users-with-valid-e-mails](https://github.com/riiyachoudhary9/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/riiyachoudhary9/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/riiyachoudhary9/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/riiyachoudhary9/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/riiyachoudhary9/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/riiyachoudhary9/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/riiyachoudhary9/LeetCode/tree/master/1873-calculate-special-bonus) |
