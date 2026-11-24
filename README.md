@@ -107,6 +107,7 @@
 | [0620-not-boring-movies](https://github.com/riiyachoudhary9/LeetCode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/riiyachoudhary9/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/riiyachoudhary9/LeetCode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/riiyachoudhary9/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/riiyachoudhary9/LeetCode/tree/master/1280-students-and-examinations) |
 | [1517-find-users-with-valid-e-mails](https://github.com/riiyachoudhary9/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/riiyachoudhary9/LeetCode/tree/master/1527-patients-with-a-condition) |
